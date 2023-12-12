@@ -1,6 +1,6 @@
 # HTML Advanced
 
-![Final result](home.jpg)
+![Final result](/home.jpg)
 
 
 ## Concepts
